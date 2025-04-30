@@ -1,0 +1,12 @@
+/* Resetting margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Setting a default font family and background color */
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #f7f2f2;
+}
